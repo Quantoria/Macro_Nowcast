@@ -22,4 +22,5 @@ Macro_Nowcast is licensed under GPL v3.
 
 ## References
 Beber, A., Brandt, M. W. & Luisi, M. (2015), ‘Distilling the macroeconomic news flow’, Journal of Financial Economics 117(3), 489–507.
+
 Stambaugh, R. F. (1997), ‘Analyzing investments whose histories differ in length’, Journal of Financial Economics 45(3), 285–331.
